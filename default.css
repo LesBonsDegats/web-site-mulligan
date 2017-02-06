@@ -90,7 +90,7 @@ hr {
 }
 
 #header {
-	overflow: hidden;
+
 	width: 1000px;
 	height: 75px;
 	margin: 0px auto;
@@ -100,7 +100,7 @@ hr {
 
 #logo {
 	float: left;
-	width: 300px;
+	width: 325px;
 	height: 75px;
 }
 
