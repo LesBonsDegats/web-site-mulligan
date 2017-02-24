@@ -301,15 +301,15 @@ hr {
 	padding-top: 20px;
 }
 #image {
-	width:275px;height:200px;
+	width:275px;
+	height:200px;
 	padding-left: 20px;
 }
-
 #image:hover {
 	padding-left : 50px;
 	width: 550px;
 	height:400px;
-	text-align: float;
+	overflow: visible;
 }
 
 
