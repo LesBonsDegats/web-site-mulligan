@@ -161,13 +161,22 @@ hr {
 
 /** PAGE */
 
+#page-middle{
+	width: 700px;
+	text-align: center;
+	overflow: hidden;
+	padding: 25px 0px 0px 0px;
+}
+
 #page {
 	overflow: hidden;
 	padding: 50px 0px 0px 0px;
 }
 
 /** CONTENT */
-
+#content-middle {
+	text-shadow: 1px 1px 0px #FFFFFF;
+}
 #content {
 	float: left;
 	width: 640px;
