@@ -302,6 +302,13 @@ hr {
 
 #banner {
 	padding-top: 30px;
+} 
+
+#tete{
+	width: 35px;
+	height: 40px;
+	padding-top: 3px;
+	padding-left: 3px;
 }
 
 /** PORTFOLIO **/
@@ -321,6 +328,29 @@ hr {
 	overflow: visible;
 }
 **/
+#imageG {
+	width:688px;
+	height:500px;
+}
+a.viewpic {
+  position:relative;
+  border-bottom:1px dashed #808080; 
+  text-decoration: none; 
+}
+a:hover.viewpic {
+  text-decoration: none; 
+  background: none;
+}
+a.viewpic span {display: none;}
+
+a:hover.viewpic span {
+  display:inline; 
+  position: fixed;
+text-align: center;  
+  top: 30%; 
+  left: 30%; 
+  z-index: 20; 
+}
 
 
 
